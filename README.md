@@ -1,12 +1,12 @@
-# ask4luv-task
+![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/e58f2e91-5462-4a38-b1cb-1abd666f5632)![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/b5f615fd-c8a0-430c-9511-adbcbda37e3d)![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/adce7d55-77bd-4aee-bee6-cd1a72cf6ef6)# ask4luv-task
 
-# This is Ifeoluwa Ogunsola
+## This is IFEOLUWA OGUNSOLA
 
 #### Here is my task on PIVOT TABLE
 
-# INTRODUCTION
+### INTRODUCTION
 
-### This is Pivot table learning process for data analysis cohort. Below is the task given to solve using Pivot table.
+#### This is Pivot table learning process for data analysis cohort. Below is the task given to solve using Pivot table.
 
 #### The task is to find the Average values for the following for Male and Females (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol!
 
@@ -34,5 +34,26 @@
 
 <img width="342" alt="Picture 5" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/879668f2-6f0a-48ad-a654-509cf1d5f0c0">
 
+###  Task on DATA VISUALISATION
+
+#### Visualize the insights gotten from the Pivot Tables created in the previous TASK using the ‘Medical Students’ Data
+
+#### The first question is the task to find the Average values for the following for Male and Females (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol
+
+<img width="359" alt="bar 1" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/3a2eefc5-8f52-4841-8ccb-071e0881ce62">
+
+#### The question is the task to find Average Height and Weight for both Genders (in 2 decimal places)			
+
+<img width="361" alt="bar 2" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/ababe1de-0edb-41e0-aaf7-7a181d6c8c67">
+
+#### The question is the task to find Number of students across the different Blood Groups		
+
+<img width="362" alt="bar3" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/187e02f3-9584-45f7-bb8a-176e0cfc0037">
+
+#### The question is the task to find "Number of Students who smoke and those who don’t
+<img width="362" alt="Bar 4" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/256c166b-2261-4143-ba98-5f667e65acb6">
+
+#### The question is the task to find Number of Students who have diabetes and those who don’t		
+<img width="361" alt="pie" src="https://github.com/ask4luv/ask4luv-task/assets/138107435/298e132d-02e3-48f4-a948-bfa942de58a2">
 
 
