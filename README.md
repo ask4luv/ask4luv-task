@@ -1,5 +1,3 @@
-![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/e58f2e91-5462-4a38-b1cb-1abd666f5632)![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/b5f615fd-c8a0-430c-9511-adbcbda37e3d)![image](https://github.com/ask4luv/ask4luv-task/assets/138107435/adce7d55-77bd-4aee-bee6-cd1a72cf6ef6)# ask4luv-task
-
 ## This is IFEOLUWA OGUNSOLA
 
 #### Here is my task on PIVOT TABLE
